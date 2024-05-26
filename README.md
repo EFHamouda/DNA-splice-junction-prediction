@@ -6,7 +6,7 @@ Main paper: "A hybird approach of ensemble learning and gray wolf optimzation fo
 # Authors
 Eslam Hamouda and Mayada Tarek   
 # Instructions
-- locate your dna data  directory using.. load_data.m file
+- locate your dna data  directory in.. load_data.m file
 * run the code using... run.m file
   # Attributes of used machine
   - RAM: 16 GB
